@@ -1,6 +1,6 @@
 # HTML "Entities"
 
-> HTML exercise given at HEPL
+> HTML exercise about entities & special characters
 
 * * *
 
