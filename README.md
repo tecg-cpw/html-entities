@@ -18,4 +18,4 @@
 
 Le code final devrait apparaître comme suit dans le navigateur :
 
-![rendu du code dans le navigateur](./assets-starter/rendu.png)
+![rendu du code dans le navigateur](./assets-starter/rendu.webp)
