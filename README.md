@@ -16,6 +16,10 @@
 2. Renommez le **index.html** et organisez votre dossier comme enseigné au cours
 3. Ajoutez le code `HTML` nécéssaire pour structurer le document.
 
-Le code final devrait apparaître comme suit dans le navigateur :
+Vous le savez, quand vous paramétrez bien votre éditeur de code pour qu’il encode ce que vous écrivez en utf-8 et que vous annoncez au navigateur que c’est utf-8 le jeu de caractères avec lequel il doit décoder la page qu’il reçoit, on n’a pas forcément besoin d’encoder les caractères __spéciaux__.  
+
+Dans cet exercice qui traite essentiellement des entités, vous allez écrire le texte de la manière la plus __safe__ qui soit. Le but est de remplacer tous les caractères spéciaux par leur entité HTML de manière à vous les mettre en tête.
+
+Le rendu final devrait apparaître comme suit dans le navigateur :
 
 ![rendu du code dans le navigateur](./assets-starter/rendu.webp)
