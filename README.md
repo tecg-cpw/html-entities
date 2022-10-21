@@ -22,4 +22,4 @@ Dans cet exercice qui traite essentiellement des entités, vous allez écrire le
 
 Le rendu final devrait apparaître comme suit dans le navigateur :
 
-![rendu du code dans le navigateur](./assets-starter/rendu.webp)
+![rendu du code dans le navigateur](./assets-starter/rendu.png)
